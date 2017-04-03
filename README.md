@@ -1,3 +1,3 @@
 # bfoh_theme
 
-This is a customized theme template
+This is a customized wordpress theme
